@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Titlul</title>
+<style>
+#left, #center, #right {
+ position: relative;
+ float: left;
+ margin: 1em 0.1em 0.1em 0.8%;
+ padding: 0.1em;
+ background: #ebebfb;
+ border: 2px solid blue;
+}
+#left {
+ width: 22%;
+ height: 11em;
+}
+#center {
+ width: 52%;
+ height: 14em;
+}
+#right {
+ width: 16.2%;
+ height: 11em;
+}
+.clr { clear: both; } /* to anulate the effect of the float */
+#footer {
+ position:relative;
+ width: 99%;
+ height: 5em;
+ margin: 1em auto 0.2em auto;
+ background: #befbbe;
+}
+</style>
+</head>
+<body>
+
+<div id="left">
+ <div>
+ <a href="https://coursesweb.net/" title="Web Courses">CoursesWeb.net</a><br/>
+ <a href="https://marplo.net/" title="MarPlo.net">MarPlo.net</a><br/>
+ <a href="https://gamv.eu/" title="Flash Games">Flash Games</a><br/>
+ </div>
+</div>
+
+<div id="center">
+ <p>Content in the center Div.<br/>
+ HTML Course and Tutorials - Align DIVs using float:left;</p>
+</div>
+
+<div id="right">
+ Content in the right side Div.
+</div>
+<br class="clr" />
+
+<div id="footer">
+ Div under the DIVs aligned with "float: left", after the tag with "clear: both;".
+</div>
+
+</body>
+</html>

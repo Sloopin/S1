@@ -1,0 +1,20 @@
+C:\Users\gebruiker\source\repos\The money box\The money box\bin\Debug\The money box.exe.config
+C:\Users\gebruiker\source\repos\The money box\The money box\bin\Debug\The money box.exe
+C:\Users\gebruiker\source\repos\The money box\The money box\bin\Debug\The money box.pdb
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The money box.csproj.AssemblyReference.cache
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The_money_box.Form1.resources
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The_money_box.Properties.Resources.resources
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The money box.csproj.GenerateResource.cache
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The money box.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The money box.exe
+C:\Users\gebruiker\source\repos\The money box\The money box\obj\Debug\The money box.pdb
+C:\University\ADO\The money box\The money box\bin\Debug\The money box.exe.config
+C:\University\ADO\The money box\The money box\bin\Debug\The money box.exe
+C:\University\ADO\The money box\The money box\bin\Debug\The money box.pdb
+C:\University\ADO\The money box\The money box\obj\Debug\The money box.csproj.AssemblyReference.cache
+C:\University\ADO\The money box\The money box\obj\Debug\The_money_box.Form1.resources
+C:\University\ADO\The money box\The money box\obj\Debug\The_money_box.Properties.Resources.resources
+C:\University\ADO\The money box\The money box\obj\Debug\The money box.csproj.GenerateResource.cache
+C:\University\ADO\The money box\The money box\obj\Debug\The money box.csproj.CoreCompileInputs.cache
+C:\University\ADO\The money box\The money box\obj\Debug\The money box.exe
+C:\University\ADO\The money box\The money box\obj\Debug\The money box.pdb
